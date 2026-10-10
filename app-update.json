@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "minecraft-note": {
+      "ios": {
+        "minVersion": "3.0.5",
+        "recommendedVersion": "3.0.5",
+        "storeUrl": "https://apps.apple.com/app/id6746953020"
+      }
+    }
+  }
+}
