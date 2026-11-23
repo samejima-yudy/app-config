@@ -14,6 +14,13 @@
         "recommendedVersion": "1.0.0",
         "storeUrl": "https://apps.apple.com/app/id6822775958"
       }
+    },
+    "castnotes": {
+      "ios": {
+        "minVersion": "1.0.0",
+        "recommendedVersion": "1.0.0",
+        "storeUrl": "https://apps.apple.com/app/id6829220975"
+      }
     }
   }
 }
